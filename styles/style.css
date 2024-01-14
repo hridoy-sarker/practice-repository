@@ -61,9 +61,7 @@ nav a{
 button{
     margin-top: 26px;
 }
-button .btn-primary{
 
-}
 .banner-photo{
     /* border: 1px solid; */
   
@@ -121,5 +119,42 @@ button .btn-primary{
 .card-collection > p{
     line-height: 24px;
 }
+.collection .arrow-button{
+    
+    position: relative;
+    left: 100%;
+    margin-top: 0px;
+    padding: 5px 5px;
+}
+
+/* feature style */
+
+.featured{
+    /* border: 1px solid; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px 120px;
+    padding: 10px 10px;
+   
+}
+.f-description{
+height: 50%;
+margin-right: 100px;
+
+}
+.f-description > h1{
+    size: 40px;
+    padding-bottom: 50px;
+   
+}
+
+.last-btn{
+    background-color: #E02C6D;
+    border: none;
+    color: #FFFFFF;
+    padding: 5px 5px;
+}
+
 
 
