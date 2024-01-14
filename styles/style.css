@@ -156,5 +156,34 @@ margin-right: 100px;
     padding: 5px 5px;
 }
 
+/* footer style */
+
+.footer{
+    border: 1px solid;
+    background-color: black;
+    color: #FFFFFF;
+    margin: 50px 120px;
+    display: flex;
+    justify-content: center;
+    
+   
+}
+.footer-description-all{
+    border: 1px solid red;
+  padding: 5px ;
+    margin: 10px;
+}
+.footer-header{
+    padding-left: 25px;
+    padding-bottom: 10px;
+   
+}
+.footer-description2{
+    padding-left: 60px;
+    padding-bottom: 10px;
+}
+ .footer-icon{
+    padding-left: 70px;
+}
 
 
